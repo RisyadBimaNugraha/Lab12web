@@ -22,13 +22,19 @@ $sql = “SELECT * FROM data_barang WHERE nama LIKE ‘{$var_nama}%’”;
 <br>
 
 Prosses Selanjutnya Membuat Form Pencarian
+
 ![SS](ss/s1.png)
+
 Sisipkan kode tersebut pada file index.php (daftar barang), sebelum table data dan sesudah tombol
 tambah data
+
 ![ss](ss/s2.png)
+
 Hasil Dari Proses Tersebut
 ![ss](ss/s3.png)
+
 Hasil Dari Melakukan Pencarian
+
 ![ss](ss/s4.png)
 
 # TERIMAKASI
